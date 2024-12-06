@@ -116,8 +116,8 @@ author:
   name             : "Seo Jin Hyoung"
   avatar           : "/assets/image/waterfall.jpg"
   bio              : "**딥러닝**을 공부하는 학생입니다."
-  location         : "Somewhere"
-  email            : "tjwlssla1@naver.com"
+  # location         : "Somewhere"
+  # email            : "tjwlssla1@gachon.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
